@@ -1,0 +1,22 @@
+{
+  "name": "ethereum-datetime",
+  "version": "1.0.0",
+  "description": "Contract which implements utilities for working with datetime values in ethereum.",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/opz/ethereum-datetime.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/opz/ethereum-datetime/issues"
+  },
+  "homepage": "https://github.com/opz/ethereum-datetime#readme"
+}
